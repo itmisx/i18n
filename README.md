@@ -7,7 +7,7 @@ i18n of golang
 - 下载i18n
 
 ```go
-go get https://github.com/itmisx/i18n
+go get -u github.com/itmisx/i18n
 ```
 
 * 定义 code 语言包
